@@ -1,0 +1,2 @@
+actionlib_tutorials:beginner_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/thomas/beginner_ws/devel -DCMAKE_INSTALL_PREFIX=/home/thomas/beginner_ws/install -G Unix Makefiles

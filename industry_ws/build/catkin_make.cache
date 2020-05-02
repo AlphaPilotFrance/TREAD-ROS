@@ -1,0 +1,2 @@
+navigation:robot_description:robot_description_moveit_config:slam_gmapping/gmapping:slam_gmapping/slam_gmapping
+-DCATKIN_DEVEL_PREFIX=/home/thomas/industry_ws/devel -DCMAKE_INSTALL_PREFIX=/home/thomas/industry_ws/install -G Unix Makefiles
