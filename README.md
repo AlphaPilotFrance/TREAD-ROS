@@ -1,4 +1,5 @@
-# BotDrivestoWaypoint
+# TREAD-ROS
+Trajectory Racing Enhanced Application for Drones Robot Operating System
 
 A custom wheeled robot in Gazebo's postoffice world. When the DRIVE button is pressed, the robot detects the RED gate, and drives toward it. Other functionality helps it get to its goal.
 
