@@ -26,18 +26,17 @@ updated by 11 May
 | :heavy_multiplication_x: SMACH Integration  | :heavy_multiplication_x: SMACH Integration  | :heavy_multiplication_x: SMACH Integration  |
 | :heavy_multiplication_x: Virtualenv Integration  | :heavy_multiplication_x: Virtualenv Integration  | :heavy_multiplication_x: Virtualenv Integration  |
 
-This is a SMACH state machine for the robot, it will be updated by 11 May.
+This is a SMACH state machine for the robot.
 
 ![GitHub Logo](/images/state_machine.png)
 
 ## :soon: Contributions are welcome
-2 May: Project will be usable by 11 May :sunflower:
 See suggestions, then please contact me at thomaxarstens@gmail.com
 - [x] Bot detects face on webcam and in world
-- [ ] Bot detects hand gestures on webcam
-- [ ] Bot detects Alpha Pilot obstacle
+- [x] Bot detects hand gestures on webcam
+- [x] Bot detects Alpha Pilot obstacle
 - [ ] Bot detects Unity3D Bot
-- [ ] Bot detects position of object
+- [x] Bot detects position of object
 
 ### Official Changelog :sunflower:
 https://trello.com/b/6ZOWkQXU/stage-dvic
